@@ -1,5 +1,5 @@
 my-project/
 │
-├── index.html
-├── styles.css
-└── script.js
+├── simple-index.html
+├── simple-styles.css
+└── simple-script.js
